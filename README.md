@@ -12,5 +12,4 @@ A real-time sign language gesture recognition system using Python, OpenCV, Media
 - Python
 - OpenCV
 - MediaPipe
-- Pandas
 - Scikit-learn
